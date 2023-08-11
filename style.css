@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+
+}
+.aline{
+    background-color: black;
+    width: 80px;
+    height: 5px;
+    margin: auto;
+}
+#game{
+    background-color: aquamarine;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 100px;
+    margin: 50px;
+}
